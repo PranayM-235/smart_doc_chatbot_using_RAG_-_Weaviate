@@ -12,7 +12,8 @@ A production-grade RAG chatbot built with Weaviate, LangChain, and Ollama.
    (git clone https://github.com/PRANAYM-235/SmartDocChat.git)
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create `.env` file with your Weaviate credentials
-4. Run the notebook
+   (for weaviate links and api)
+5. Run the notebook
 
 ## Project Structure
 SmartDocChat/
